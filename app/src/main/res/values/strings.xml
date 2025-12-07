@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RickAndMorty Search</string>
+    <string name="search_characters_search_bar_place_holder">Search characters…</string>
+    <string name="search_character_search_icon_content_description">Search Character</string>
+    <string name="search_character_not_found">Empty Search</string>
+    <string name="clear_search_clear_button_text">Clear search</string>
+    <string name="an_error_occurred_try_again_later">An error Occurred try again later.</string>
+    <string name="search_character_screen_empty_state_text">Use the search bar to find a character</string>
+    <string name="search_character_empty_search_text">No characters found with the search query</string>
+    <string name="back_nav_text">Back</string>
 </resources>
